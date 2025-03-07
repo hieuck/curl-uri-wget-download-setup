@@ -43,7 +43,7 @@ set "SoftName=KeePassXC"
 set "Process=KeePassXC.exe"
 
 set "FileName="
-set "SoftNameVersion=2.7.9"
+set "SoftNameVersion=2.7.10"
 set "FileDLwB=KeePassXC*"
 
 set "OpenAfterInstall="
