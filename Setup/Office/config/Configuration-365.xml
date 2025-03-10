@@ -1,0 +1,12 @@
+﻿<Configuration>
+  <Add OfficeClientEdition="64" Channel="Current" AllowCdnFallback="true" OfficeMgmtCOM="false">
+    <Product ID="O365ProPlusRetail">
+      <Language ID="en-us" />
+      <ExcludeApp ID="Teams" />
+    </Product>
+  </Add>
+  <Remove All="true" />
+  <Display AcceptEULA="True" />
+  <Updates Enabled="true" />
+  <Extend DownloadFirst="true" CreateShortcuts="true" />
+</Configuration>
