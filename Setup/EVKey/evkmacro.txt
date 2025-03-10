@@ -1,0 +1,6 @@
+﻿<<Đây là dòng làm dấu Unicode, không được sửa hoặc xoá dòng này>>
+hieuckkh||irm https://massgrave.dev/get | iex
+HIEUCKKH||irm https://massgrave.dev/get | iex
+wgi||winget install -e --id
+wgs||winget search
+wgu||winget upgrade --include-unknown
