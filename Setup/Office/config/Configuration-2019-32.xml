@@ -1,0 +1,11 @@
+﻿<Configuration>
+  <Add OfficeClientEdition="32" Channel="PerpetualVL2019" AllowCdnFallback="true" OfficeMgmtCOM="false">
+    <Product ID="ProPlus2019Volume">
+      <Language ID="en-us" />
+    </Product>
+  </Add>
+  <Remove All="true" />
+  <Display AcceptEULA="True" />
+  <Updates Enabled="false" />
+  <Extend DownloadFirst="true" CreateShortcuts="true" />
+</Configuration>
