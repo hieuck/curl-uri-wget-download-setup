@@ -1,0 +1,12 @@
+﻿<Configuration>
+  <Add OfficeClientEdition="64" Channel="PerpetualVL2024" AllowCdnFallback="true" OfficeMgmtCOM="false">
+    <Product ID="ProPlus2024Volume">
+      <Language ID="en-us" />
+      <ExcludeApp ID="Teams" />
+    </Product>
+  </Add>
+  <Remove All="true" />
+  <Display AcceptEULA="True" />
+  <Updates Enabled="false" />
+  <Extend DownloadFirst="true" CreateShortcuts="true" />
+</Configuration>
