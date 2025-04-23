@@ -43,7 +43,7 @@ set "SoftName=CPUID HWMonitor"
 set "Process=HWMonitor.exe"
 
 set "FileName="
-set "SoftNameVersion=1.52"
+set "SoftNameVersion=1.57"
 set "FileDLwB=HWMonitor*.exe"
 
 set "SupportOldWindows=Yes"
