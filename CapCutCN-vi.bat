@@ -13,7 +13,7 @@ setlocal EnableExtensions
 rem
 rem If we fail, look in the current directory.
 rem
-set CAPCUT_DIR="%LocalAppData%\CapCut"
+set CAPCUT_DIR="%LocalAppData%\CapCut\Apps"
 set JIANYINGPRO_DIR="%LocalAppData%\JianyingPro\Apps"
 
 rem Sort CAPCUT_DIR's subdirectories (/a:d) by reverse date (/o:-d) of
