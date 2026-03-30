@@ -44,7 +44,7 @@ set "SoftName=FastStone Capture"
 set "Process=FSCapture.exe"
 
 set "FileName="
-set "SoftNameVersion=105"
+set "SoftNameVersion=112"
 set "FileDLwB=FSCaptureSetup*.exe"
 
 set "OpenAfterInstall="
