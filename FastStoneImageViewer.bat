@@ -44,7 +44,7 @@ set "SoftName=FastStone Image Viewer"
 set "Process=FSViewer.exe"
 
 set "FileName="
-set "SoftNameVersion=78"
+set "SoftNameVersion=83"
 set "FileDLwB=FSViewerSetup*.exe"
 
 set "OpenAfterInstall="
